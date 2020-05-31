@@ -1,0 +1,1 @@
+* * 1 * * /usr/bin/curl -s http://testjob.com/statistic >/dev/null 2>&1

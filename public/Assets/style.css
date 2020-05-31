@@ -1,0 +1,27 @@
+.avatar {
+    height: 3em;
+}
+
+.table td {
+
+    vertical-align: middle;
+}
+.nav {
+    box-shadow: 0 0 5px rgba(0,0,0, 0.5);
+    margin-bottom: 15px;
+}
+ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: space-between;
+}
+
+
+
+ul li {
+    list-style: none;
+}
